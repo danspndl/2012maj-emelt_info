@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1462780056 source:c:\users\sdaniel\desktop\einfo10-15\12maj\futar\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cmath>
+	<stdlib.h>
+
